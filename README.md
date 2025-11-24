@@ -81,6 +81,14 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2024 TIP*** Multiple Riemannian Kernel Hashing for Large-Scale Image Set Classification and Retrieval(`MRKH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10582843)  
 ***2024 TMM*** Self-Supervised Temporal Sensitive Hashing for Video Retrieval(`TSVH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10492503)  
 ***2024 TNNLS*** PrivFR: Privacy-Enhanced Federated Recommendation With Shared Hash Embedding(`PrivFR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10506199)  
+***2025 CVPR*** AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing(`AutoSSVH`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lian_AutoSSVH_Exploring_Automated_Frame_Sampling_for_Efficient_Self-Supervised_Video_Hashing_CVPR_2025_paper.pdf)[[Code]](https://github.com/EliSpectre/CVPR25-AutoSSVH)  
+***2025 CVPR*** Graph-Embedded Structure-Aware Perceptual Hashing for Neural Network Protection and Piracy Detection[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Graph-Embedded_Structure-Aware_Perceptual_Hashing_for_Neural_Network_Protection_and_Piracy_CVPR_2025_paper.pdf)  
+***2025 AAAI*** Efficient Self-Supervised Video Hashing with Selective State Spaces(`S5VH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32835)[[Code]](https://github.com/gimpong/AAAI25-S5VH)  
+***2025 AAAI*** Robust Image Hashing Based on Contrastive Masked Autoencoder with Weak-Strong Augmentation Alignment(`CMAA`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32991)[[Code]](https://github.com/pikeyang/cmaa)  
+***2025 AAAI*** Unsupervised Kernel-based Multi-view Feature Selection with Robust Self-representation and Binary Hashing(`UKMFS`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33900)  
+***2025 AAAI*** TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering(`TPCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35443)[[Code]](https://github.com/jankin-wang/TPCH)  
+***2025 AAAI*** HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning(`HaCore`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34409)  
+***2025 KDD*** IDentity with Locality: An Ideal Hash for Gene Sequence Search(`IDL`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3690624.3709233)[[Code]](https://github.com/gaurav16gupta/CKBF)  
 
 * #### Deep-Supervised  
 ***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600428.2609600)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
@@ -190,6 +198,16 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)  
 ***2024 TNNLS*** State Abstraction via Deep Supervised Hash Learning(`DSH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10723098)  
 ***2024 TKDE*** Look Into Gradients: Learning Compact Hash Codes for Out-of-Distribution Retrieval(`LOG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10591352)  
+***2025 AAAI*** Deep Graph Online Hashing for Multi-Label Image Retrieval(`DGOH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32191)[[Code]](https://github.com/caoyuan57/DGOH)  
+***2025 AAAI*** Generalized Debiased Semi-Supervised Hashing for Large-Scale Image Retrieval(`GDSH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32600)  
+***2025 AAAI*** KALAHash: Knowledge-Anchored Low-Resource Adaptation for Deep Hashing(`KALAHash`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33136)[[Code]](https://github.com/Tree-Shu-Zhao/KALAHash.pytorch)  
+***2025 IJCAI*** ST-TAR: An Efficient Spatio-Temporal Learning Framework for Traffic Accident Risk Forecasting(`ST-TAR`)[[Paper]](https://www.ijcai.org/proceedings/2025/865)[[Code]](https://github.com/wanghyhy/ST-TAR)  
+***2025 IJCAI*** Distributed Cascaded Manifold Hashing Network for Compact Image Set Representation(`DCMHN`)[[Paper]](https://www.ijcai.org/proceedings/2025/222)  
+***2025 IJCAI*** FedCCH: Automatic Personalized Graph Federated Learning for Inter-Client and Intra-Client Heterogeneity(`FedCCH`)[[Paper]](https://www.ijcai.org/proceedings/2025/333)  
+***2025 MM*** Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval(`FTH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755201)[[Code]](https://github.com/QinLab-WFU/FTH)  
+***2025 MM*** MADPHash: Manipulation-Aware Deep Perceptual Hashing using Feature Consistency(`MADPHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755264)  
+***2025 SIGIR*** Reconciling Efficiency and Effectiveness of Exercise Retreival: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing(`HashCAT`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730072)[[Code]](https://github.com/sherklock/Intelligent-Education/tree/main/HashCAT-main)  
+***2025 WWW*** GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems(`GraphHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714910)[[Code]](https://github.com/snap-research/GraphHash)
 
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
@@ -548,7 +566,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 MM*** Precise Target-Oriented Attack against Deep Hashing-based Retrieval(`PTA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612364)[[Code]](https://github.com/1nAzureSky/Precise-Target-Oriented-Attack-against-Deep-Hashing-based-Retrieval)     
 ***2024 ICMR*** Targeted Universal Adversarial Attack on Deep Hash Networks(`TUA`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3658062)[[Code]](https://github.com/caoyuan57/TUA)    
 ***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)  
-***2024 MMAsia*** Targeted Transferable Attack against Deep Hashing Retrieval(`TTA-GAN`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3595916.3626420)
+***2024 MMAsia*** Targeted Transferable Attack against Deep Hashing Retrieval(`TTA-GAN`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3595916.3626420)  
+***2025 AAAI*** HUANG: A Robust Diffusion Model-based Targeted Adversarial Attack Against Deep Hashing Retrieval(`HUANG`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32377)  
 
 ### 😄Cross-Modal
 * #### Non-targeted     
@@ -568,8 +587,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ### 😄Single-Modal 
 ***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)  
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)  
-***2023 TIFS*** Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval(`SAAT`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189878)[[Code]](https://github.com/xandery-geek/SAAT)
-
+***2023 TIFS*** Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval(`SAAT`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189878)[[Code]](https://github.com/xandery-geek/SAAT)  
+***2025 SIGIR*** Two-stage Adversarial Training for Deep Hashing via Representation Distillation(`CRDAT`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730103)
 
 ## 😍Long-Tail     
 ### 😄Single-Modal   
