@@ -190,6 +190,11 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)  
 ***2024 TNNLS*** State Abstraction via Deep Supervised Hash Learning(`DSH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10723098)  
 ***2024 TKDE*** Look Into Gradients: Learning Compact Hash Codes for Out-of-Distribution Retrieval(`LOG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10591352)  
+***2025 TBD*** A Privacy-Preserving Large-Scale Image Retrieval Framework With Vision GNN Hashing(`VIGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10767424)  
+***2025 TBD*** Deep Global Distance Estimation Hashing for Image Retrieval(`DEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10982178)  
+***2025 TBD*** SRGTNet: Subregion-Guided Transformer Hash Network for Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10854876)  
+
+
 
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
@@ -270,6 +275,8 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2024 TCSVT*** Cross-Domain Transfer Hashing for Efficient Cross-modal Retrieval(`CDTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463060)[[Code]](https://github.com/WangBowen7/CDTH)  
 ***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
+***2025 TCSVT*** Deep Learning to Hash With Application to Cross-View Nearest Neighbor Search[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10119236)  
+***2025 TCSVT*** PFedLAH: Personalized Federated Learning With Lookahead for Adaptive Cross-Modal Hashing(`PFedLAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10924221)  
 
 * #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
@@ -374,6 +381,11 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TKDE*** Deep Hierarchy-Aware Proxy Hashing With Self-Paced Learning for Cross-Modal Retrieval(`DHaPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10530441/)  
 ***2024 TMM*** Two-Step Discrete Hashing for Cross-Modal Retrieval(`TSDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10487033/)[[Code]](https://github.com/kalenforn/clip-based-cross-modal-hash)  
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)    
+***2025 TBD*** Deep Cross-Modal Hashing With RankingLearning for Noisy Labels(`DHRL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587102)  
+***2025 TCSVT*** Bi-Direction Label-Guided Semantic Enhancement for Cross-Modal Hashing(`BiLGSEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10813461)[[Code]](https://github.com/yileicc/BiLGSEH)  
+***2025 TCSVT*** Deep Discriminative Boundary Hashing for Cross-Modal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003934)[[Code]](https://github.com/QinLab-WFU/DDBH)  
+***2025 TCSVT*** Dual Prototypes-Based Personalized Federated Adversarial Cross-Modal Hashing(`DP-FeAd`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078306)  
+***2025 TCSVT*** Generative Augmentation Hashing for Few-shot Cross-Modal Retrieva(`GAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11079701)[[Code]](https://github.com/xiaolaohuuu/GAH)  
 
 
 
@@ -390,6 +402,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 MM*** Multi-label Pattern Image Retrieval via Attention Mechanism Driven Graph Convolutional Network(`GCN-AMD`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475695)   
 ***2021 MM*** Two-pronged Strategy: Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Paper]](https://arxiv.org/pdf/2108.03914.pdf)[[Code]](https://github.com/christinecui/LAGNH)  
 ***2023 PR*** Deep collaborative graph hashing for discriminative image retrieval(`DCGH`)[[Paper]](https://pdf.sciencedirectassets.com/272206/1-s2.0-S0031320323X0003X/1-s2.0-S0031320323001620/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHEaCXVzLWVhc3QtMSJGMEQCIGDsIoiCWFWeRzOuy7e2uTQRPhwB9jipyne2EeXwwlzXAiAYa0IG8KzU5mPaUw%2FwXk3KJw8ue7X4sbqCb3dJGHKJ%2FCqzBQgqEAUaDDA1OTAwMzU0Njg2NSIM18WfjN1FCbfbGpTzKpAFZk7rLgci%2FL0GKc4ePfmzO1uttBqtkpjHkcS9ELwuMvJ5yPzlhrYJ7AgRKUfwAxNjars6kxVj5Jt%2Fqssujn0liiVbbiAHUgjBpmKINrwJixPFYrbyByPt0E%2FqeV6CcDMy5ZO%2F%2FsmcgcKGQLAyM1nwLRlQwIDZLqbWzpNJhu15Qn%2Fo%2B14X2cyG%2BcIQQl0F9dbq0vFNRa5kTc3CeotrMHh3coDQgpxpFm7B%2BEGeHTcgMXY8jOg%2B4TJXFJMdBKi16HPDqbFrr1ORSvUCusfDj%2BfwN9D%2BrydoytTFAsfwinYnBOMSzCPyFRn3IXL87SRzrerM%2BmS9XM1geuNUXQVVEHHIZ%2FDxnm%2F7ExPpmtteulDG7CnUY5Xg%2BrLqzUtI2b3xuW%2BpPbYTCphwg%2B1sQwqEHdme6%2BvkA4bIdav5i1MdsUg5nCEe0rJfvv3FriwrX1XgHk%2B6Zc9Iz2%2BWhCTrd6Wq53g6JoZeZaCApao%2FMVT9Ougq2BNYmBnn4iljM7dEZiA2dCtdy5CGWQ2Njjmnfr%2BYYbtZNQ3mzGv4L95phOIf2ZpV%2Fhn2GSDBUoH501wILTRiJmzO9vu8cjojcB5T%2FrW6L4IGU8epVJLoDHLqYTiT2jPN62GmLjUaThrG4ZFloBbS5JBAbR3R%2Bf9rxc45tOuYNsoQpNFSmT1CmEmHwS3cAkjiMUhMzdVDwZZbC7lAad2XObVHdKqOdZAy1lXbwrDjzPKA47%2Bp3LQGUImFLYu%2FKJ4WhmQhGDIenropyoPqDxVyWqzTjUb%2BsU8puIUpR1vtCclibcTG6yw3XIGXOnTNVi9HoXipasZKKmaHLGJ26uYOPxbLPfV9ar2rfan%2B5uKeu9Ly%2BlsXglzNqfq3WhyDB%2B0Sbf4w3%2FDKugY6sgGxv37nK3MXkoEvzuAWaf8Zxuzq0XX7HitEIOeNaZJEKKA%2FnqLVQh%2BmH0OkLfRzHhcQ8BpjpaNCkzIhlSTbAiYiJObO%2BOg5aX6%2B%2FwTgSht3YkqfXjAez46gOymNe86Pvc4vSUOMPDTJfeJiTOkhjyz7%2Fm2gc0KDxY8pXzOcyRFLPXh%2BCu22EgJhjRGvnRdd0Yy88LvI1KMnyT478d7qvNJiwuw2CXd1IJYZMMCcJl4UjdU2&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241206T102203Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWTM2FXIU%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e73991d718514a9a5b5311fe419f0dd26169ebc00b99e68ab26e94c9003bb888&hash=e43da643f6120b30802c9c1e153de1de7bda8d2138d212f12b37d43ad44e64b2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0031320323001620&tid=spdf-1d5b8c83-2811-42f0-824b-3f283b470a00&sid=57df978c5e52384a0429ada17d9bb59bb8bcgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=010b59000604590352&rr=8edb8d73ee3a84c3&cc=cn)[[Code]](https://github.com/JalinWang/DCGH)  
+***2025 TCSVT*** Incomplete Multi-Modal Weakly-Supervised Hashing With Consensus Bipartite Graph(`IMEH-CBG`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872895)  
 ### 😄Cross-Modal  
 * #### Unsupervised
 ***2021 AAAI*** Deep Graph-neighbor Coherence Preserving Network for Unsupervised Cross-modal Hashing(`DGCPN`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16592/16399)[[Code]](https://github.com/Atmegal/DGCPN)   
@@ -563,6 +576,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 * #### Targeted
 ***2023 TCSVT*** Targeted Adversarial Attack against Deep Cross-modal Hashing Retrieval(`TA-DCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10090409)[[Code]](https://github.com/tswang0116/TA-DCH)  
 ***2024 TMM*** Primary Code Guided Targeted attack against Cross-modal Hashing Retrieval(`PGTA`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10814650)  
+***2025 TCSVT*** FPAD: Fuzzy-Prototype-guided Adversarial Attack and Defense for Deep Cross-Modal Hashing(`FPAD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145157)[[Code]](https://github.com/yzq131/FPAD)  
+
 
 ## 🛡️Defense
 ### 😄Single-Modal 
