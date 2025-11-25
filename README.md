@@ -401,7 +401,17 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2025 AAAI*** Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval(`LCDH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32505)  
 ***2025 AAAI*** Distribution-Consistency-Guided Multi-modal Hashing(`DCGMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33326/35481)[[Code]](https://github.com/LiuJinyu1229/DCGMH)  
 ***2025 AAAI*** DrugHash: Hashing Based Contrastive Learning for Virtual Screening(`DrugHash`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33873/36028)  
-***2025 AAAI*** Semi-Supervised Online Cross-Modal Hashing(`SSOCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33954)
+***2025 AAAI*** Semi-Supervised Online Cross-Modal Hashing(`SSOCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33954)  
+***2025 AAAI*** Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval(`DECH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34043)[[Code]](https://github.com/blackant-dev/DECH)  
+***2025 AAAI*** Robust Self-Paced Hashing for Cross-Modal Retrieval with Noisy Labels(`RSHNL`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34199)[[Code]](https://github.com/perquisite/RSHNL)  
+***2025 AAAI*** Learning Together Securely: Prototype-Based Federated Multi-Modal Hashing for Safe and Efficient Multi-Modal Retrieval(`PFMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34475)[[Code]](https://github.com/vindahi/PMFH)  
+***2025 IJCAI*** Endogenous Recovery via Within-modality Prototypes for Incomplete Multimodal Hashing(`PMCH`)[[Paper]](https://www.ijcai.org/proceedings/2025/281)[[Code]](https://github.com/Sasa77777779/PMCH)  
+***2025 MM*** Asymmetric Pre-aligned Anchor Contrastive Enhanced Diffusion Hashing Model for Incomplete Multimodal Retrieval(`AADH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755850)  
+***2025 MM*** Label Prediction Inherited Hashing for Cross-Modal Retrieval: Applying Supervised Hashing to Unsupervised Tasks(`LPIH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755849)  
+***2025 MM*** Multi-view Hashing Classification(`MHC`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755692)[[Code]](https://github.com/Yuhang-lan04/MHC)  
+***2025 MM*** Online Cross-Modal Hashing with Multi-Level Memory(`OCH-MM`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755665)  
+***2025 MM*** Dynamic Optimization Noisy Cross-Modal Hashing(`DONCMH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755684)  
+***2025 SIGIR*** AV-NAS: Audio-Visual Multi-Level Semantic Neural Architecture Search for Video Hashing(`AV-NAS`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3729899)[[Code]](https://github.com/iFamilyi/AV-NAS)
 
 
 
