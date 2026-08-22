@@ -618,7 +618,10 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2022 CIKM*** Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query (`Aries`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557239)   
 ***2023 AAAI*** Contrastive Pre-training with Adversarial Perturbations for Check-in Sequence Representation Learning(`CACSR`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25546)[[Code]](https://github.com/LetianGong/CACSR)    
 ***2023 ICDE*** Contrastive Trajectory Similarity Learning with Dual-Feature Attention(`TrajCL`)[[Paper]](https://arxiv.org/abs/2210.05155)[[Code]](https://github.com/changyanchuan/TrajCL)    
-***2024 AAAI*** KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding(`KGTS`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28672))
+***2024 AAAI*** KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding(`KGTS`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28672))  
+***2025 KDD*** Blurred Encoding for Trajectory Representation Learning(`BLUE`)[[Paper]](https://arxiv.org/pdf/2511.13741)[[Code]](https://github.com/slzhou-xy/BLUE)  
+***2026 AAAI*** Region-Point Joint Representation for Effective Trajectory Similarity Learning(`RePo`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38571)  
+***2026 AAAI*** Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning(`MetaTRL`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38658)  
 ### 😄Road(Non-hashing)   
 * #### Deep-Unsupervised
 ***2021 KDD*** A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks(`GTS`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467337)  
@@ -627,6 +630,9 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 DASFAA*** Trajectory Representation Learning Based on Road Network Partition for Similarity Computation（`PT2vec`）[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-30637-2.pdf?pdf=button)  
 ***2023 AAAI*** GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM(`GRLSTM`）[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25624/25396) [[Code]](https://github.com/slzhou-xy/GRLSTM)  
 ***2023 ICDE*** Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics(`START`）[[Paper]](https://ieeexplore.ieee.org/abstract/document/10184736) [[Code]](https://github.com/aptx1231/START)  
+***2025 KDD*** Grid and Road Expressions Are Complementary for Trajectory Representation Learning(`GREEN`)[[Paper]](https://dl.acm.org/doi/10.1145/3690624.3709272)[[Code]](https://github.com/slzhou-xy/GREEN)  
+***2026 TKDE*** Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning(`CORE`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11592601)[[Code]](https://github.com/caoji2001/CORE)  
+***2026 ICDE*** Robust Spatial-Temporal Similar Trajectory Search via Structure-Enhanced Domain-Invariant Learning(`RoTraj`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11629533)[[Code]](https://anonymous.4open.science/r/RoTraj5022)  
 
 ## 😍Attack     
 ### 😄Single-Modal 
